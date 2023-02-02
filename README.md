@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkululekombhele&label=Profile%20views&color=0e75b6&style=flat" alt="nkazimulombhele" /> </p>
 
-- 🔭 I’m currently working on [Nkululeko Dot IO business website.](https://nkululeko.io)
+- 🔭 I’m currently looking for as Software Development job.
 
 - 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **ASP.NET projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m a team player
 
-- 💬 Ask me about **UX, UI, React and Python**
+- 💬 Ask me about **Asp.net core .netFramework WinForms Applications**
 
 - 📫 How to reach me **nkazimulombhele74@gmail.com**
 
